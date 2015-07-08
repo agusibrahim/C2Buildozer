@@ -1,0 +1,14 @@
+Alias name: androiddebugkey
+Password: android
+Creation date: Mar 26, 2015
+
+Valid from: Thu Mar 26 09:04:36 UTC 2015 until: Sat Mar 02 09:04:36 UTC 2115
+Certificate fingerprints:
+	 MD5:  37:B3:52:FC:86:BE:DC:C2:E9:B6:B7:B7:FC:11:3D:90
+	 SHA1:  A6:B1:E5:83:93:22:09:42:2A:DD:0F:F8:6A:B9:37:E9:B9:B5:56:DF
+	 SHA256:  D5:A2:B2:C1:8B:E2:04:87:35:E5:D2:9F:B0:B3:CD:95:A5:08:51:5D:E5:56:52:25:29:05:60:E9:D2:D2:B4:CD
+	 Signature algorithm name: SHA256withRSA
+	 SHA1 BASE64: prHlg5MiCUIq3Q/4ark36bm1Vt8=
+
+Created by:
+Agus Ibrahim | @agusmibrahim

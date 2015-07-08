@@ -1,0 +1,1 @@
+REG QUERY "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts"|findstr /R /i /S /C:%1
